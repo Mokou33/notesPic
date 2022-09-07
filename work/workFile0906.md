@@ -13,6 +13,5 @@
 
 
 1. 异常 已完成
-2.  Vipshop  未锁 待处理
-3. export 
-
+2. Vipshop  未锁 待处理
+3. export
